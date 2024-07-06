@@ -5,8 +5,10 @@
 <p align="center">
   <h3 align="center">A passionate student from Vietnam </h3>
 </p>
-✍ I'm a student at UIT.
+✍✔ I'm a student at UIT.
+💕✔I want to dive into the cryptographic world of technology
 🤞🤞🤞❤❤❤✔✔✔
+
 
 <br />
 
