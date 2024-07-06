@@ -31,7 +31,7 @@
   <a href="https://www.hackerrank.com/profile/nguyenthihongtu2" alt="HackerRank" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" />
   </a>
-  <a href="mailto:tiennhm.it@gmail.com" alt="Email">
+  <a href="mailto:nguyenthihongtuyet004@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
