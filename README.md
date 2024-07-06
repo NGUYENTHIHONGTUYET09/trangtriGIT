@@ -1,23 +1,19 @@
 <!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
-<img align="right" width="64" src="https://github.com/NGUYENTHIHONGTUYET09.png" />
+<img align="right" width="64" src="https://github.com/TienNHM.png" />
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
-
-<h2 align="center">Hi 👋, I'm Hong Tuyet</h2>
+<h2 align="center">Hi 👋, I'm HONG TUYET</h2>
 <p align="center">
-  <h3 align="center">A passionate student from Vietnam 🇻🇳</h3>
+  <h3 align="center">A passionate student from Vietnam 🇻🇳 </h3>
 </p>
-
-> ✍ I'm a student at the University of Information Technology (UIT).
+✍ I'm a student at UIT.
 
 <br />
 
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-![](https://komarev.com/ghpvc/?username=NGUYENTHIHONGTUYET09&style=flat-square)
 
-## 📫 How to reach me:
 
+📫 How to reach me:
 <p align="center">
-  <a href="https://linkedin.com/in/tien-nhm" target="_blank">
+  <a href="https://www.linkedin.com/in/nguyen-thi-hong-tuyet-106058318/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100015667711831" alt="Facebook">
@@ -36,7 +32,6 @@
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
-
 ## Skills:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
