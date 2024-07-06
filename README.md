@@ -1,5 +1,5 @@
 <!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
-<img align="right" width="64" src="https://github.com/TienNHM.png" />
+<img align="right" width="64" src="https://github.com/NGUYENTHIHONGTUYET09.png" />
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 <h2 align="center">Hi 👋, I'm HONG TUYET</h2>
 <p align="center">
@@ -8,7 +8,6 @@
 ✍ I'm a student at UIT.
 
 <br />
-
 
 
 📫 How to reach me:
@@ -22,8 +21,8 @@
   <a href="https://github.com/NGUYENTHIHONGTUYET09" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-  <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
-    <img src="https://www.youtube.com/channel/UCeDO_8s-Hh1QEKFVwbxalZw"/>
+  <a href="https://www.youtube.com/channel/UCeDO_8s-Hh1QEKFVwbxalZw" alt="Youtube channel" target="_blank" >
+    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
   <a href="https://www.kaggle.com/nguyenhuynhminhtien" alt="Kaggle" target="_blank" >
     <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
@@ -32,6 +31,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
+
 ## Skills:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
