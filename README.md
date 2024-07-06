@@ -23,7 +23,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
+    <img src="https://www.youtube.com/channel/UCeDO_8s-Hh1QEKFVwbxalZw"/>
   </a>
   <a href="https://www.kaggle.com/nguyenhuynhminhtien" alt="Kaggle" target="_blank" >
     <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
