@@ -3,9 +3,10 @@
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 <h2 align="center">Hi 👋, I'm HONG TUYET</h2>
 <p align="center">
-  <h3 align="center">A passionate student from Vietnam 🇻🇳 </h3>
+  <h3 align="center">A passionate student from Vietnam </h3>
 </p>
 ✍ I'm a student at UIT.
+🤞🤞🤞❤❤❤✔✔✔
 
 <br />
 
