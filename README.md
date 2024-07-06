@@ -32,20 +32,21 @@
   </a>
 </p>
 
-## Skills:
+#skill
+
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-  <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" width="48" height="48"/> 
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png" alt="Visual Studio" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48"/>
+  <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="48" height="48"/>
+  <img src="https://img.icons8.com/dusk/48/000000/anaconda.png" alt="Anaconda" width="48" height="48"/>
+  <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png" alt="Spyder" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/trello.png" alt="Trello" width="48" height="48"/>
 </p>
 
 ## Activities:
